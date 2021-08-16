@@ -7,6 +7,12 @@ Author: Mikolaj Stawiski
 
 ![alt text](images/meme.png "This might be the future of embedded, who knows!")
 
+# Demo
+
+Video below:
+
+https://user-images.githubusercontent.com/26871388/129513268-6169cfb7-81ae-4291-9432-02eb985ad0c7.mp4
+
 # Requirements
 
 To build the template you'll need:
